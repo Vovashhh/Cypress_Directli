@@ -1,0 +1,24 @@
+{
+  "name": "cypress_directli",
+  "version": "1.0.0",
+  "description": "Cypress_Directli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vovashhh/Cypress_Directli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vovashhh/Cypress_Directli/issues"
+  },
+  "homepage": "https://github.com/Vovashhh/Cypress_Directli#readme",
+  "devDependencies": {
+    "cypress": "^13.6.6",
+    "prettier": "^3.2.5"
+  }
+}
