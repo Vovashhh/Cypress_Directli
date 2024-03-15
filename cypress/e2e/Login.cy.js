@@ -2,7 +2,9 @@
 
 describe('template spec', () => {
   beforeEach(() => {
-    cy.visit('/')
+    
+    cy.customLogin('crm.28540@gmail.com', 'Qwerty123/');
+
   })
 
   it('passes', () => {

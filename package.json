@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Vovashhh/Cypress_Directli#readme",
   "devDependencies": {
     "cypress": "^13.6.6",
+    "dotenv": "^16.4.5",
     "prettier": "^3.2.5"
   }
 }
